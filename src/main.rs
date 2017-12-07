@@ -1,8 +1,8 @@
-mod day_two;
+mod day_four;
 
-use day_two::solve_two;
+use day_four::solve;
 
 
 fn main() {
-    println!("{}", solve_two())
+    println!("{}", solve())
 }
